@@ -1,5 +1,7 @@
 == README
 
+10 from retina
+
 7:08 from iMac
 
 5:35
