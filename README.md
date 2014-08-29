@@ -1,14 +1,5 @@
 == README
 
-10 from retina
-
-7:08 from iMac
-
-5:35
-
-
-0:09
-
 
 This is an administrative CMS utility.
 
